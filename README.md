@@ -5,6 +5,8 @@
 
 </aside>
 
+[GitHub - Ashes814/Airbnb](https://github.com/Ashes814/Airbnb.git)
+
 # CRISP-DM
 
 ## 1. Business Understanding
@@ -67,3 +69,17 @@ We implemented two kinds of model for our business problem:
 - A jupyter notebook contains all the data processing procedure we have made in this project.
 - A solution blog for our findings.
 - A GitHub repository for all related files.
+
+# Introduction
+
+![Untitled](Airbnb_Rea%208856b/Untitled.png)
+
+Airbnb, founded in 2008, makes money by charging guests and hosts for short-term rental stays in private homes or apartments booked through the Airbnb website. It started in prototype in San Francisco and expanded rapidly, and is now operating in hundreds of cities around the world.
+
+About twenty-five million people live in Shanghai, one of the biggest cities in China, which has a huge market for renting house. We use basic map visuallisation and data analysis skills to show your the host distribution of Airbnb in Shanghai.
+
+![heatplot.jpg](Airbnb_Rea%208856b/heatplot.jpg)
+
+![listings.jpg](Airbnb_Rea%208856b/listings.jpg)
+
+![var_boxplot.jpg](Airbnb_Rea%208856b/var_boxplot.jpg)
