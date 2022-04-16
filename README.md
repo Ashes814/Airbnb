@@ -17,7 +17,7 @@
 </aside>
 
 - Where has the highest/lowest prize for a list, and what is the reason of such distribution.
-- How well can we predict a list’s review score? What aspects correlate well to list satisfaction?
+- How well can we predict a list' s review score? What aspects correlate well to list satisfaction?
 
 ## 2. Data Understanding
 
